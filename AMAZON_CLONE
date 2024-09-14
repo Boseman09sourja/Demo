@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>AMAZON</title>
+    <link rel="stylesheet" href="style.css">
+
+
+</head>
+<body>
+    <nav>
+        <a href="/">
+             <img src="./assets/download (1).png" width="100" alt="">
+        </a>
+
+        <div class="nav-country">
+            <img src="./assets/download.png" height="20" alt="">
+            <div>
+                <p>Deliver to</p>
+                <h1>INDIA</h1>
+            </div>
+        </div>
+
+        <div class="nav-search">
+            <div class="nav-search-gategory">
+                <p>ALL</p>
+
+                <img src="./assets/5800629.png" height="12" alt="">
+            </div>
+
+            <input type="text" placeholder="Search Amazon" class="nav-search-input">
+         </div>
+
+         <div class="nav-language">
+            <img src="./assets/india-flag.png" width="25px" alt="">
+            <p>EN</p>
+            <img src="./assets/5800629.png" width="8px" alt="">
+         </div>
+
+         <div class="nav-text">
+            <p>Hello, Sign in</p>
+            <h1>Accounts and Lists <img src="./assets/5800629.png" width="8px" alt=""></h1>
+         </div>
+        
+         <div class="nav-text">
+            <p>Return</p>
+            <h1>& Orders</h1>
+         </div>
+
+         <a href="./" class="nav-cart">
+            <img src="./assets/cart.png" width="35px" alt="">
+            <h4>Cart</h4>
+         </a>
+    </nav>
+
+    <div class="nav-bottom">
+        <div>
+            <img src="./assets/menu.png" width="25px" alt="">
+            <p>All</p>
+        </div>
+        <p>Today's deals</p>
+        <p>Customer Service</p>
+        <p>Register</p>
+        <p>Gift Cards</p>
+        <p>Sell</p>
+    </div>
+
+    <div class="header-slider">
+        <ul>
+            <img src="./assets/header2.jpg" class="header-img" alt="">
+        </ul>
+
+    </div>
+</body>
+</html>
